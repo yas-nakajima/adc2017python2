@@ -32,13 +32,13 @@
 	- 13:30 - 講習開始 世話人の話（計算機の説明ほか）
 	- 13:40 - 17:00 講習1 (座学と簡単な練習問題を交えながら)
 		- Jupyter notebookの使いかた
-		- IRAF(PyRAF)基本
-    - PyRAFでのアパーチャ測光
+		- IRAF(PyRAF)基本  
+		- PyRAFでのアパーチャ測光
 
 - 2日目
 	- 9:30 - 11:30 講習2 
-		- Numpy 基本
-   		- astropy.io.fits 基本
+		- Numpy 基本  
+		- astropy.io.fits 基本
 
 	- 13:00 - 14:30 講習3  
 		- matplotlib 基本  
