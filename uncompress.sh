@@ -1,2 +1,2 @@
 #!/bin/sh
-bzip2 */*fits.bz2
+bunzip2 */*fits.bz2
