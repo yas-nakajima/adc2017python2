@@ -9,8 +9,8 @@
 
 **内容** : Python+Jupyter notebookを用いての光赤外データ(撮像)解析の初歩。  
 	2017年7月に行った1回目の内容より変更しています(より初心者むけ + 演習の時間をより多く) 。
-	- 今回の講習を受けたのちに1回目の資料を自習することでステップアップできます。  
-	1回目は https://github.com/yas-nakajima/adc2017python
+		- 今回の講習を受けたのちに1回目の資料を自習することでステップアップできます。  
+		1回目は https://github.com/yas-nakajima/adc2017python
 
 **概要** : Jupyter notebookの使い方、PythonからIRAFを使う方法、Numpy、astropy.io.fits、matplotlibなどデータ処理に必要なPythonモジュールの基本を講習し、PyRAFの使い方、撮像データのアパーチャ測光、そのデータ整理、可視化を実習する。対話的なコマンドの使い方からPythonプログラミングの基本までを習得する。  
 
